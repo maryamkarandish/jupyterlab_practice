@@ -1,0 +1,9 @@
+name: jupyter_test_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - jupyterlab
+  - python=3.10
+prefix: /Users/maryamkarandish/miniconda3/envs/jupyter_test_env
